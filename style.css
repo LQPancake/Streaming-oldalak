@@ -48,3 +48,18 @@ img{
 #cellkep{
     max-height: 180px;
 }
+table,th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.igen{
+    background-color: #a0fea1;
+}
+.nem{
+    background-color: #ffc7c8;
+}
+th{
+    width: 10%;
+}
