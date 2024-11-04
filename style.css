@@ -63,3 +63,7 @@ table,th, td{
 th{
     width: 10%;
 }
+#netflix{
+    max-width: 17%;
+    background-color: black;
+}
