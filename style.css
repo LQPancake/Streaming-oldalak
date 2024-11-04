@@ -79,3 +79,7 @@ a:link {
     color: black;
     text-decoration: underline;
   }
+#netflix{
+    max-width: 100px;
+    background-color: black;
+}
